@@ -4,7 +4,7 @@
 -------------
 * Python 3.9
 * pyQt5
-* matplotlib
+* numpy
 
 구현 알고리즘 목록 (List of implementation algorithms)
 -------------
