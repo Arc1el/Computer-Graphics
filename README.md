@@ -1,4 +1,4 @@
-컴퓨터그래픽스 - 통합실습환경 (IPE : Integrated Practice Environment)
+컴퓨터그래픽스 - 통합실습환경</br>(IPE : Integrated Practice Environment)
 =============
 실습환경 (Development Environment)
 -------------
